@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+}
+
+.loadingPage {
+  font-size: 50px;
+  justify-content: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
