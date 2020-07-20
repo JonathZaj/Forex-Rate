@@ -36,7 +36,7 @@ class RatesComponent extends React.Component {
     } else {
       return (
         <>
-          <h2 className="title">Rates</h2>
+          <h2 className="title">Forex Data</h2>
           <table className="table">
             <thead>
               <tr>
